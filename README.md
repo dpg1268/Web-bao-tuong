@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
@@ -239,5 +238,3 @@ Ngày nay, thanh niên tiếp tục phát huy tinh thần năng động, sáng t
         <p>💡 Tình nguyện</p>
         <p>🚀 Phát triển kỹ năng</p>
     </div>
-</body>
-</html>
