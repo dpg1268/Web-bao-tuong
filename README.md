@@ -34,7 +34,7 @@ body{
 }
 /* container */
 .container{
-    max-width:750px;
+    max-width:700px;
     width:100%;
     padding:30px;
     border:4px solid red;
@@ -69,7 +69,7 @@ body{
 }
 .tv, .hd{
     flex:1;
-    max-width:260px;
+    max-width:400px;
 }
 .left{
     width:40%;
@@ -222,7 +222,7 @@ Ngày nay, thanh niên tiếp tục phát huy tinh thần năng động, sáng t
     <hr>
     <p style="text-align:center;color:red; font-weight: bold;">▶ Video tư liệu lịch sử</p>
     <div class="video">
-        <iframe width="700" height="400"
+        <iframe width="600" height="350"
         src="https://www.youtube.com/embed/Kui4Tt7lbE0"
         frameborder="0" allowfullscreen></iframe>
     </div>
