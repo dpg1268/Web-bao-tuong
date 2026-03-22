@@ -104,7 +104,7 @@ body{
     color:black;
 }
 .activity img{
-    width:100%;
+    width:300px;
     height:160px;
     object-fit:cover;
     border-radius:8px;
