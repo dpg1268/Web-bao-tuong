@@ -239,13 +239,5 @@ Ngày nay, thanh niên tiếp tục phát huy tinh thần năng động, sáng t
         <p>💡 Tình nguyện</p>
         <p>🚀 Phát triển kỹ năng</p>
     </div>
-
-<div class="t">
-    <p>THPT Ea Súp</p>
-    <p>Chi đoàn 12A1</p>
-    <p>Nhóm 1</p>
-    <p>Người làm: Đức Phong</p>
-</div>
-
 </body>
 </html>
