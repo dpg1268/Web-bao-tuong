@@ -104,8 +104,8 @@ body{
     color:black;
 }
 .activity img{
-    width:200px;
-    height:100px;
+    width:100%;
+    height:160px;
     object-fit:cover;
     border-radius:8px;
     transition:0.3s;
