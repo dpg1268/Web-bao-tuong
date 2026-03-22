@@ -70,7 +70,6 @@ body{
 }
 .tv, .hd{
     flex:1;
-    max-width:400px;
 }
 .left{
     width:40%;
