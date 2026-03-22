@@ -75,7 +75,10 @@ body{
     flex:0 0 320px;
 }
 .left{
+      position: relative;
     width:40%;
+     top:115px;
+    left:5px;
 }
 .left img{
     width:100%;
